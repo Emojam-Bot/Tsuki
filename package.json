@@ -1,6 +1,6 @@
 {
   "name": "Tsuki",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "discord": "^0.8.2",
+    "discord-xp": "^1.1.16",
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
